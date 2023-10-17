@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-10-22 13:15:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-22 13:16:04 --> 404 Page Not Found: Js/jquery-3.3.1.min.js
+ERROR - 2022-10-22 13:16:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-22 13:16:06 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2022-10-22 13:16:06 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2022-10-22 13:16:11 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2022-10-22 13:16:12 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2022-10-22 13:16:13 --> 404 Page Not Found: Js/main.js
+ERROR - 2022-10-22 13:16:13 --> 404 Page Not Found: Fonts/flaticon
+ERROR - 2022-10-22 13:16:14 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2022-10-22 13:16:16 --> 404 Page Not Found: Js/jquery-migrate-3.0.1.min.js
+ERROR - 2022-10-22 13:16:16 --> 404 Page Not Found: Js/jquery.magnific-popup.min.js
+ERROR - 2022-10-22 13:16:17 --> 404 Page Not Found: Fonts/icomoon
+ERROR - 2022-10-22 13:16:18 --> 404 Page Not Found: Js/jquery-ui.js
+ERROR - 2022-10-22 13:16:19 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2022-10-22 13:16:20 --> 404 Page Not Found: Js/aos.js
+ERROR - 2022-10-22 13:16:24 --> 404 Page Not Found: Js/bootstrap.min.js
+ERROR - 2022-10-22 16:57:04 --> 404 Page Not Found: Eni9/index
+ERROR - 2022-10-22 17:27:18 --> 404 Page Not Found: Eni9/index
+ERROR - 2022-10-22 23:18:18 --> 404 Page Not Found: Eni9/resources
+ERROR - 2022-10-22 23:19:08 --> 404 Page Not Found: Eni9/menu.php
+ERROR - 2022-10-22 23:19:20 --> 404 Page Not Found: Eni9/login.php
+ERROR - 2022-10-22 23:48:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-22 23:50:03 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-10-22 23:50:05 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2022-10-22 23:54:17 --> 404 Page Not Found: Loginhtml/index
+ERROR - 2022-10-22 23:54:17 --> 404 Page Not Found: Bloghtml/index
+ERROR - 2022-10-22 23:54:18 --> 404 Page Not Found: Listingshtml/index
+ERROR - 2022-10-22 23:54:28 --> 404 Page Not Found: Registerhtml/index
+ERROR - 2022-10-22 23:54:30 --> 404 Page Not Found: Contacthtml/index
+ERROR - 2022-10-22 23:54:30 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2022-10-22 23:54:33 --> 404 Page Not Found: Abouthtml/index

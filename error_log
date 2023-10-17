@@ -1,0 +1,1 @@
+[06-Aug-2022 19:40:35 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/taxibolb/taxikone.com/application/controllers/Main.php on line 1014

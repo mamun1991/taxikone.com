@@ -1,0 +1,56 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-09-16 00:51:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-16 00:52:08 --> 404 Page Not Found: Js/jquery-3.3.1.min.js
+ERROR - 2022-09-16 00:52:10 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2022-09-16 00:52:10 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2022-09-16 00:52:11 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2022-09-16 00:52:14 --> 404 Page Not Found: Js/main.js
+ERROR - 2022-09-16 00:52:20 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2022-09-16 00:52:20 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2022-09-16 00:52:21 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2022-09-16 07:31:14 --> Severity: Notice --> Trying to get property 'rate' of non-object /home/taxibolb/taxikone.com/application/controllers/Main.php 481
+ERROR - 2022-09-16 05:12:45 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2022-09-16 05:12:45 --> 404 Page Not Found: Apple-touch-icon-120x120png/index
+ERROR - 2022-09-16 05:12:45 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-09-16 05:12:46 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-09-16 10:03:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-16 13:58:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-16 13:58:28 --> 404 Page Not Found: Js/jquery-ui.js
+ERROR - 2022-09-16 13:58:34 --> 404 Page Not Found: Fonts/flaticon
+ERROR - 2022-09-16 13:58:35 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2022-09-16 13:58:36 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2022-09-16 13:58:37 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2022-09-16 13:58:38 --> 404 Page Not Found: Fonts/icomoon
+ERROR - 2022-09-16 13:58:39 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2022-09-16 13:58:40 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2022-09-16 13:58:41 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2022-09-16 15:19:18 --> 404 Page Not Found: Js/bootstrap.min.js
+ERROR - 2022-09-16 15:19:18 --> 404 Page Not Found: Js/main.js
+ERROR - 2022-09-16 15:19:20 --> 404 Page Not Found: Js/jquery.magnific-popup.min.js
+ERROR - 2022-09-16 15:19:22 --> 404 Page Not Found: Js/jquery-migrate-3.0.1.min.js
+ERROR - 2022-09-16 15:19:22 --> 404 Page Not Found: Js/jquery-3.3.1.min.js
+ERROR - 2022-09-16 15:19:23 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2022-09-16 15:19:24 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2022-09-16 15:19:25 --> 404 Page Not Found: Js/aos.js
+ERROR - 2022-09-16 15:19:28 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2022-09-16 15:19:29 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2022-09-16 15:23:46 --> 404 Page Not Found: Fonts/icomoon
+ERROR - 2022-09-16 15:23:48 --> 404 Page Not Found: Js/aos.js
+ERROR - 2022-09-16 15:23:49 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2022-09-16 15:23:49 --> 404 Page Not Found: Js/jquery-migrate-3.0.1.min.js
+ERROR - 2022-09-16 15:23:51 --> 404 Page Not Found: Js/jquery.magnific-popup.min.js
+ERROR - 2022-09-16 15:23:51 --> 404 Page Not Found: Js/main.js
+ERROR - 2022-09-16 15:23:52 --> 404 Page Not Found: Js/bootstrap.min.js
+ERROR - 2022-09-16 15:23:52 --> 404 Page Not Found: Fonts/flaticon
+ERROR - 2022-09-16 15:23:57 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2022-09-16 15:23:57 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2022-09-16 15:23:58 --> 404 Page Not Found: Js/jquery-ui.js
+ERROR - 2022-09-16 15:23:59 --> 404 Page Not Found: Fonts/icomoon
+ERROR - 2022-09-16 15:23:59 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2022-09-16 15:24:00 --> 404 Page Not Found: Fonts/flaticon
+ERROR - 2022-09-16 15:24:01 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2022-09-16 18:33:42 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2022-09-16 22:29:31 --> Severity: Notice --> Trying to get property 'rate' of non-object /home/taxibolb/taxikone.com/application/controllers/Main.php 481
+ERROR - 2022-09-16 22:56:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-16 23:56:49 --> 404 Page Not Found: Eni9/index

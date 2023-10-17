@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-24 03:03:05 --> 404 Page Not Found: 2004/license.txt
+ERROR - 2023-01-24 05:00:53 --> 404 Page Not Found: Administrator/components
+ERROR - 2023-01-24 05:03:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 12:14:41 --> 404 Page Not Found: 2006/license.txt
+ERROR - 2023-01-24 13:46:58 --> 404 Page Not Found: Contacthtml/index
+ERROR - 2023-01-24 14:31:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 14:32:34 --> 404 Page Not Found: Js/jquery-3.3.1.min.js
+ERROR - 2023-01-24 14:32:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 14:34:06 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2023-01-24 14:34:36 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2023-01-24 14:36:10 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2023-01-24 14:36:12 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2023-01-24 14:36:13 --> 404 Page Not Found: Js/main.js
+ERROR - 2023-01-24 14:36:43 --> 404 Page Not Found: Fonts/flaticon
+ERROR - 2023-01-24 14:36:44 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2023-01-24 14:36:46 --> 404 Page Not Found: Js/jquery-migrate-3.0.1.min.js
+ERROR - 2023-01-24 14:36:46 --> 404 Page Not Found: Js/jquery.magnific-popup.min.js
+ERROR - 2023-01-24 14:37:16 --> 404 Page Not Found: Fonts/icomoon
+ERROR - 2023-01-24 16:52:44 --> 404 Page Not Found: 2007/license.txt
+ERROR - 2023-01-24 21:34:00 --> 404 Page Not Found: 3/license.txt
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Fonts/icomoon
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Fonts/flaticon
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/jquery-3.3.1.min.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/main.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/bootstrap.min.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/jquery-ui.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/jquery-migrate-3.0.1.min.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/aos.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/jquery.magnific-popup.min.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2023-01-24 21:43:25 --> 404 Page Not Found: Js/rangeslider.min.js

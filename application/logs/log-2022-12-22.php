@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-22 13:25:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-22 13:25:10 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2022-12-22 13:25:12 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2022-12-22 13:25:13 --> 404 Page Not Found: Fonts/icomoon
+ERROR - 2022-12-22 13:25:15 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2022-12-22 13:25:16 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2022-12-22 13:25:17 --> 404 Page Not Found: Js/main.js
+ERROR - 2022-12-22 13:25:18 --> 404 Page Not Found: Js/bootstrap.min.js
+ERROR - 2022-12-22 13:25:18 --> 404 Page Not Found: Fonts/flaticon
+ERROR - 2022-12-22 13:25:19 --> 404 Page Not Found: Js/jquery-ui.js
+ERROR - 2022-12-22 13:25:19 --> 404 Page Not Found: Js/jquery-3.3.1.min.js
+ERROR - 2022-12-22 13:25:20 --> 404 Page Not Found: Js/jquery-migrate-3.0.1.min.js
+ERROR - 2022-12-22 13:25:22 --> 404 Page Not Found: Js/aos.js
+ERROR - 2022-12-22 13:25:23 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2022-12-22 13:25:24 --> 404 Page Not Found: Js/jquery.magnific-popup.min.js
+ERROR - 2022-12-22 13:25:25 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2022-12-22 15:33:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-22 15:33:57 --> 404 Page Not Found: Js/jquery-3.3.1.min.js
+ERROR - 2022-12-22 15:33:57 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2022-12-22 15:33:57 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2022-12-22 15:33:58 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2022-12-22 15:33:59 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2022-12-22 15:33:59 --> 404 Page Not Found: Js/main.js
+ERROR - 2022-12-22 15:33:59 --> 404 Page Not Found: Fonts/flaticon
+ERROR - 2022-12-22 15:34:00 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2022-12-22 15:34:00 --> 404 Page Not Found: Js/jquery-migrate-3.0.1.min.js
+ERROR - 2022-12-22 15:34:01 --> 404 Page Not Found: Js/jquery.magnific-popup.min.js
+ERROR - 2022-12-22 15:34:02 --> 404 Page Not Found: Fonts/icomoon
+ERROR - 2022-12-22 15:34:02 --> 404 Page Not Found: Js/jquery-ui.js
+ERROR - 2022-12-22 15:34:03 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2022-12-22 15:34:03 --> 404 Page Not Found: Js/aos.js
+ERROR - 2022-12-22 15:34:04 --> 404 Page Not Found: Js/bootstrap.min.js
+ERROR - 2022-12-22 17:22:55 --> 404 Page Not Found: Abouthtml/index
+ERROR - 2022-12-22 23:12:31 --> 404 Page Not Found: Assets/fileupload

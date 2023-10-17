@@ -1,0 +1,47 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-11-06 00:34:09 --> 404 Page Not Found: Sites/all
+ERROR - 2022-11-06 05:09:31 --> Severity: Notice --> Trying to get property 'hotel_name' of non-object /home/taxibolb/taxikone.com/application/views/scdule_plan.php 379
+ERROR - 2022-11-06 03:10:08 --> 404 Page Not Found: Fonts/icomoon
+ERROR - 2022-11-06 03:10:11 --> 404 Page Not Found: Fonts/flaticon
+ERROR - 2022-11-06 03:10:11 --> 404 Page Not Found: Js/jquery-3.3.1.min.js
+ERROR - 2022-11-06 03:10:13 --> 404 Page Not Found: Js/jquery-migrate-3.0.1.min.js
+ERROR - 2022-11-06 03:10:13 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2022-11-06 03:10:13 --> 404 Page Not Found: Js/bootstrap.min.js
+ERROR - 2022-11-06 03:10:13 --> 404 Page Not Found: Js/jquery-ui.js
+ERROR - 2022-11-06 03:10:13 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2022-11-06 03:10:14 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2022-11-06 03:10:16 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2022-11-06 03:10:16 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2022-11-06 03:10:16 --> 404 Page Not Found: Js/jquery.magnific-popup.min.js
+ERROR - 2022-11-06 03:10:16 --> 404 Page Not Found: Js/aos.js
+ERROR - 2022-11-06 03:10:16 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2022-11-06 03:10:16 --> 404 Page Not Found: Js/main.js
+ERROR - 2022-11-06 12:28:05 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2022-11-06 12:28:07 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2022-11-06 12:28:08 --> 404 Page Not Found: View-source:/index
+ERROR - 2022-11-06 12:28:09 --> 404 Page Not Found: Misc/ajax.js
+ERROR - 2022-11-06 14:14:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-06 14:14:25 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2022-11-06 14:14:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-11-06 14:32:42 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2022-11-06 14:32:43 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2022-11-06 14:32:44 --> 404 Page Not Found: View-source:/index
+ERROR - 2022-11-06 14:32:45 --> 404 Page Not Found: Misc/ajax.js
+ERROR - 2022-11-06 17:01:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-06 17:01:15 --> 404 Page Not Found: Listingshtml/index
+ERROR - 2022-11-06 19:07:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-06 20:14:12 --> 404 Page Not Found: Registerhtml/index
+ERROR - 2022-11-06 20:15:12 --> 404 Page Not Found: Loginhtml/index
+ERROR - 2022-11-06 20:16:14 --> 404 Page Not Found: Listingshtml/index
+ERROR - 2022-11-06 20:17:14 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2022-11-06 20:18:12 --> 404 Page Not Found: Contacthtml/index
+ERROR - 2022-11-06 20:19:11 --> 404 Page Not Found: Bloghtml/index
+ERROR - 2022-11-06 20:20:10 --> 404 Page Not Found: Abouthtml/index
+ERROR - 2022-11-06 20:47:16 --> 404 Page Not Found: Loginhtml/index
+ERROR - 2022-11-06 21:18:52 --> 404 Page Not Found: Abouthtml/index
+ERROR - 2022-11-06 21:20:22 --> 404 Page Not Found: Bloghtml/index
+ERROR - 2022-11-06 21:21:28 --> 404 Page Not Found: Contacthtml/index
+ERROR - 2022-11-06 21:22:37 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2022-11-06 21:23:41 --> 404 Page Not Found: Listingshtml/index
+ERROR - 2022-11-06 21:24:43 --> 404 Page Not Found: Registerhtml/index

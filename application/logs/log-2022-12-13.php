@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-13 00:42:27 --> 404 Page Not Found: Eni9/index
+ERROR - 2022-12-13 04:54:47 --> 404 Page Not Found: Bloghtml/index
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Fonts/icomoon
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Fonts/flaticon
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/jquery-3.3.1.min.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/jquery-migrate-3.0.1.min.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/bootstrap.min.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/aos.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/jquery-ui.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/jquery.magnific-popup.min.js
+ERROR - 2022-12-13 09:21:00 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2022-12-13 09:21:01 --> 404 Page Not Found: Js/main.js
+ERROR - 2022-12-13 09:21:02 --> 404 Page Not Found: Js/jquery-migrate-3.0.1.min.js
+ERROR - 2022-12-13 09:21:02 --> 404 Page Not Found: Js/jquery-ui.js
+ERROR - 2022-12-13 09:21:02 --> 404 Page Not Found: Js/popper.min.js
+ERROR - 2022-12-13 09:21:02 --> 404 Page Not Found: Js/bootstrap.min.js
+ERROR - 2022-12-13 09:21:03 --> 404 Page Not Found: Js/owl.carousel.min.js
+ERROR - 2022-12-13 09:21:03 --> 404 Page Not Found: Js/jquery.stellar.min.js
+ERROR - 2022-12-13 09:21:03 --> 404 Page Not Found: Js/jquery.countdown.min.js
+ERROR - 2022-12-13 09:21:03 --> 404 Page Not Found: Js/jquery.magnific-popup.min.js
+ERROR - 2022-12-13 09:21:03 --> 404 Page Not Found: Js/bootstrap-datepicker.min.js
+ERROR - 2022-12-13 09:21:03 --> 404 Page Not Found: Js/aos.js
+ERROR - 2022-12-13 09:21:03 --> 404 Page Not Found: Js/rangeslider.min.js
+ERROR - 2022-12-13 09:21:03 --> 404 Page Not Found: Js/main.js
+ERROR - 2022-12-13 09:31:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 18:23:03 --> 404 Page Not Found: Dropzone/dropzone-amd-module.min.js
